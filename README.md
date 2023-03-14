@@ -1,5 +1,5 @@
 # Grid-Drawer
-Simple Grid Drawer program on python
+Simple Grid Drawer program on python to make grids intended for rpg encounters. I made this because I could not find good alternatives for something that makes hexagonal grids.
 
 Program takes image_path, grid_type, grid_size, grid_width, and angle as input
 
